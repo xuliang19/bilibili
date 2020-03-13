@@ -37,10 +37,10 @@
   height: 60rpx;
 }
 .search_image {
-  width: 60rpx;
-  height: 44rpx;
+  width: 50rpx;
+  height: 50rpx;
 }
 .user_image {
-  width: 54rpx;
+  width: 60rpx;
   height: 60rpx;
 }
